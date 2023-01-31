@@ -2,6 +2,8 @@
 
 ## Strategy
 
-br.com.alura.loja.imposto
+br.com.alura.loja.[imposto](src%2Fmain%2Fjava%2Fbr%2Fcom%2Falura%2Floja%2Fimposto)
 
-br.com.alura.loja.orcamento
+## Chain of Responsibility
+
+br.com.alura.loja.[descontos](src%2Fmain%2Fjava%2Fbr%2Fcom%2Falura%2Floja%2Fdescontos)
